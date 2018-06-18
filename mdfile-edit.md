@@ -5,4 +5,4 @@
 ## Heading
 
 ### Heading3
-- html link example: [Google](http://www.Google.com)
+- html link example: [Google](http://www.gmail.com)
